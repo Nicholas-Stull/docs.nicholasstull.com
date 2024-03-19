@@ -6,15 +6,13 @@ This is my personal "second brain". I've exhausted googling the same thing every
 
 This project was scaffolded using [Nextra Docs Template](https://nextra.vercel.app/).
 
-Actually, I made it for myself. But of course, I'm open to any feedback. You can email me at [yehezkiel.gunawan28@gmail.com](mailto:nicholasp.stull@gmail.com), **if you found any deprecated or just want to give some suggestion.** Thank you.
+Actually, I made it for myself. But of course, I'm open to any feedback. You can email me at [nicholasp.stull@gmail.com](mailto:nicholasp.stull@gmail.com), **if you found any deprecated or just want to give some suggestion.** Thank you.
 
 ## References
 
 - [YehezGun's Personal Docs](https://docs.yehezgun.com/)
 - [Sozonome's Base site](https://base.sznm.dev)
 - [Theodorus Clarence's Documentation Site](https://docs.thcl.dev/)
-
-
 
 ## License
 
