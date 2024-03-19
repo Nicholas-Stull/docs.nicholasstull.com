@@ -1,6 +1,6 @@
 # Docs.nicholasstull.com
 
-![docs.nicholasstull.com](https://socialify.git.ci/Nicholas-Stull/docs.nicholasstull.com/image?language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FNicholas-Stull%2Fdocs.nicholasstull.com%2Fmain%2Fpublic%2Fassets%2Fimages%2Ficons%2Fnotes.svg&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+![docs.nicholasstull.com](https://socialify.git.ci/Nicholas-Stull/docs.nicholasstull.com/image?description=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FNicholas-Stull%2Fdocs.nicholasstull.com%2Fmain%2Fpublic%2Fassets%2Fimages%2Ficons%2Fnotes.svg&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
 
 This is my personal "second brain". I've exhausted googling the same thing every time, so I put the tools, library, or framework that I frequently use to this site. You can access the live demo at [docs.nicholasstull.com](https://docs.nicholasstull.com).
 
